@@ -20,3 +20,14 @@ http://headstartdev.github.io/headstart_meteor
 3.미티어 한글 문서 : http://docs-ko.meteor.com/
 
 4.미티어 패키지를 받는 곳 : https://atmospherejs.com/
+
+
+### 커맨드 라인에서 추가해야 할 패키지
+
+meteor add accounts-password
+
+meteor add ian:accounts-ui-bootstrap-3
+
+meteor add iron:router
+
+meteor add tabs:bootstrap
