@@ -5,3 +5,7 @@
 
 미티어의 초기 디렉토리만 나눠놓은 상태입니다.
 우선 각자 맡은 파트를 개인 브런치에서 작업을 해주세요.
+
+
+Github에서 우리 프로젝트에 관한 간단한 웹페이지도 제공하네요
+http://headstartdev.github.io/headstart_meteor
