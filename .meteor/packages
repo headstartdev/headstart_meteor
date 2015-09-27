@@ -22,8 +22,8 @@ accounts-github
 accounts-facebook
 accounts-google
 accounts-password
-ian:accounts-ui-bootstrap-3
 twbs:bootstrap
 iron:router
 semantic:ui
 flemay:less-autoprefixer
+iandouglas:accounts-ui-semantic-ui
