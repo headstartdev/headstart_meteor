@@ -1,7 +1,5 @@
-# headstart_meteor
+# Headstart meteor
 
-- HeadStart SV 의 미티어 웹사이트 제작 프로젝트
- 
 
 미티어의 초기 디렉토리만 나눠놓은 상태입니다.
 우선 각자 맡은 파트를 개인 브런치에서 작업을 해주세요.
@@ -11,7 +9,7 @@ Github에서 우리 프로젝트에 관한 간단한 웹페이지도 제공하�
 http://headstartdev.github.io/headstart_meteor
 
 
-- To Start
+# To Start
 
 1.미티어를 배우는 방법에 대한 글 : https://www.yauh.de/best-learning-resources-for-meteorjs/
 
@@ -22,7 +20,7 @@ http://headstartdev.github.io/headstart_meteor
 4.미티어 패키지를 받는 곳 : https://atmospherejs.com/
 
 
-### 커맨드 라인에서 추가해야 할 패키지
+# 커맨드 라인에서 추가해야 할 패키지
 
 meteor add accounts-password
 
