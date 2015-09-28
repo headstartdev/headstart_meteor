@@ -8,7 +8,7 @@
 Github에서 우리 프로젝트에 관한 간단한 웹페이지도 제공하네요
 http://headstartdev.github.io/headstart_meteor
 
-
+# ★★★★   JetBrain Webstorm 학생 라이센스로 사용  가능 합니다 tps://www.jetbrains.com/shop/eform/students
 # To Start
 
 1.미티어를 배우는 방법에 대한 글 : https://www.yauh.de/best-learning-resources-for-meteorjs/
