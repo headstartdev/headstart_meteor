@@ -1,5 +1,5 @@
 <template name="header">
-    <nav class="navbar navbar-default" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
                 <span class="sr-only">Toggle navigation</span>
@@ -11,9 +11,14 @@
         </div>
         <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav">
-                <li><a href="{{pathFor 'scheduleSubmit'}}">학습신청</a></li>
-                <li><a href="{{pathFor 'scheduleList'}}">고객센터</a></li>
+                <li class="active"><a href="{{pathFor 'scheduleSubmit'}}">회사소개</a></li>
+                <li><a href="{{pathFor 'scheduleList'}}">강좌</a></li>
+                <li><a href="{{pathFor 'scheduleList'}}">학습신청</a></li>
+                <li><a href="{{pathFor 'scheduleList'}}">나의 정보</a></li>
             </ul>
+            <form class="navbar-form pull-right">
+                <input type="text" class="form-control col-lg-8" placeholder="Search">
+            </form>
             <ul class="nav navbar-nav navbar-right">
                 {{> loginButtons}}
             </ul>

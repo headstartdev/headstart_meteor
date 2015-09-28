@@ -24,6 +24,6 @@ accounts-google
 accounts-password
 twbs:bootstrap
 iron:router
-semantic:ui
 flemay:less-autoprefixer
-iandouglas:accounts-ui-semantic-ui
+fezvrasta:bootstrap-material-design
+ian:accounts-ui-bootstrap-3
